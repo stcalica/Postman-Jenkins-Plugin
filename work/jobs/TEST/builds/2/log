@@ -1,0 +1,6 @@
+Started by user unknown or anonymous
+Building in workspace /Users/kylecalica/Code/Postman-Jenkins/postman-jenkins/postman-plugin/work/workspace/TEST
+Hello, Postman!
+537ec9ce-5a09-4e33-a0b8-8c1bd5070185
+java.io.FileNotFoundException: https://api.getpostman.com/collections/537ec9ce-5a09-4e33-a0b8-8c1bd5070185
+Finished: SUCCESS

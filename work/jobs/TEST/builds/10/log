@@ -1,0 +1,6 @@
+Started by user unknown or anonymous
+Building in workspace /Users/kylecalica/Code/Postman-Jenkins/postman-jenkins/postman-plugin/work/workspace/TEST
+Retrieved Postman API key from global Global Configuration
+Calling collection endpoint with id: 12ea3e79-0bcc-4287-a030-49555e771142
+ERROR: Collection was not retrieved.
+Finished: FAILURE

@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: postman-plugin
+Long-Name: Postman Collections
+Minimum-Java-Version: 1.8
+Plugin-Version: 0.0
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Developers: 
+Libraries: /Users/kylecalica/Code/Postman-Jenkins/postman-jenkins/post
+ man-plugin/src/main/resources,/Users/kylecalica/Code/Postman-Jenkins/
+ postman-jenkins/postman-plugin/target/classes,/Users/kylecalica/.m2/r
+ epository/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar
+Resource-Path: /Users/kylecalica/Code/Postman-Jenkins/postman-jenkins/
+ postman-plugin/src/main/webapp
+

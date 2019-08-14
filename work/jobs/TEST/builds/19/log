@@ -1,0 +1,11 @@
+Started by user unknown or anonymous
+Building in workspace /Users/kylecalica/Code/Postman-Jenkins/postman-jenkins/postman-plugin/work/workspace/TEST
+Calling collection endpoint with id: 13bd44c4-94ec-420a-8390-8ff44b60f14d
+Collection retrieved successfully
+
+java.io.FileNotFoundException: https://api.getpostman.com/collections/13bd44c4-94ec-420a-8390-8ff44b60f14d
+
+Wrote collection to file: test.json
+[TEST] $ /bin/sh -xe /var/folders/b2/ts7r9rqd73qdg24sl9l8jbmh0000gp/T/jenkins7118099503286888536.sh
++ cat ./test.json
+java.io.FileNotFoundException: https://api.getpostman.com/collections/13bd44c4-94ec-420a-8390-8ff44b60f14dFinished: SUCCESS
