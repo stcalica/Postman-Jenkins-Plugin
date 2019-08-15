@@ -1,5 +1,13 @@
 # Postman Collection Jenkins Plugin
 
+## How to Test
+
+`mvn hpi:run -Djetty.port=9001` 
+then go to browser: localhost:9001/jenkins 
+
+## How To Build
+
+`mvn package` 
 
 ## How To Use
 
